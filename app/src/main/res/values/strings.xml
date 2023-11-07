@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Section6Test1</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="query">Query All</string>
+    <string name="update">Update</string>
+    <string name="insert">Insert</string>
+    <string name="previous"> &lt; </string>
+    <string name="dashLabel">-</string>
+    <string name="next"> &gt; </string>
+    <string name="delete">Delete</string>
+    <string name="authority">com.example.provider</string>
+    <string name="read_permission">com.example.NamesProvider.permission.READ_PERMISSION</string>
+    <string name="write_permission">com.example.NamesProvider.permission.WRITE_PERMISSION</string>
+    <string name="fandom">Fandom</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="ultimate">Ultimate</string>
+    <string name="price">Price</string>
+    <string name="submit">Submit</string>
+    <string name="pop_type">POP Type</string>
+    <string name="pop_number">POP Number</string>
+    <string name="pop_name">POP Name</string>
+</resources>
+
+<!--<resources>-->
+<!--    <string name="app_name">ExamQ6Project</string>-->
+<!--</resources>-->

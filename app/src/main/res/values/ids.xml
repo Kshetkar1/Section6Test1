@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextPopName" type="id" />
+    <item name="editTextPopNumber" type="id" />
+    <item name="editTextPopType" type="id" />
+    <item name="editTextFandom" type="id" />
+    <item name="radioGroupOn" type="id" />
+    <item name="radioButtonOn" type="id" />
+    <item name="radioButtonOff" type="id" />
+    <item name="editTextUltimate" type="id" />
+    <item name="editTextPrice" type="id" />
+    <item name="buttonSubmit" type="id" />
+</resources>
